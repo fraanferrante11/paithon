@@ -8,4 +8,4 @@ T= entero = int( input("Ingresar tiempo: "))
 
 Dist = V * T
 
-print (Dist)
+print ("La distancia recorrida es: ", Dist)
